@@ -7,16 +7,20 @@ Step-by-step guide on how to download transaction for your trades from Vanguard.
 Log in to your Vanguard account via the url https://investor.vanguard.com/
 
 Go to the Activity tab.
+
 Click on Download Center on the top right corner.
 
 Under Step 1 chose a spreadsheet-compatible CSV file.
+
 Under Step 2 Choose a date range for your transactions.
+	
 		Custom will allow to download specific date range.	
 		You can download for max last 18 months of transactions.
 
 Step 3 choose the account(s) to download.
 
 Click on the "Download" button. 
+
 It will download a file on your local PC with a name OfxDownload.csv
 
 The file has two different sets of records, one with Summary of Symbols and the second on details of transactions. 
