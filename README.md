@@ -27,14 +27,23 @@ The file has two different sets of records, one with Summary of Symbols and the 
 This Power BI report is loaded with sample data and does not represent any real transactions. 
 
 To load the downloaded data from your account in the Power BI report perform the steps below: 
+
 Ensure you on the Home Tab of the Power BI ribbon. 
+
 Click on the Transform data drop down and Select Data source setting
+
 It will open the Data source settings dialog box
+
 Click on the Change Source.. 
+
 Click on the Browse and find the folder where the OfxDownload.csv is saved 
+
 Select the file and click Open  
+
 Click OK to close the dialog box
+
 Click Close
 
 Click on the Refresh button on the Home ribbon. 
+
 When the refresh is completed, the new data will reflect in Summary and Details pages.
